@@ -143,3 +143,4 @@ OPTIONAL
 
 Write the command(s) that you used to do this below:
 ----------
+tar -xvf *insertfilename*
